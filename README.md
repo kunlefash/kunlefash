@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunlefash
-- 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning  Machine Learning & AI
+- 👀 I’m a backend software developer with Node Js
+- 🌱 I’m currently learning React Js for Front-end Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  kunlefashmayop@gmail.com
 
