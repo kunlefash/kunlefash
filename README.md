@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunlefash
+- 👋 Hi, I’m @chromes
 - 👀 I’m a backend software developer with Node Js
 - 🌱 I’m currently learning React Js for Front-end Development
 - 💞️ I’m looking to collaborate on 
