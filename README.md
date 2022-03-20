@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chromes
-- 👀 I’m a backend software developer with Node Js
-- 🌱 I’m currently learning React Js for Front-end Development
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @Kunlefash
+- 👀 I’m a frontend software developer with React.js(HTML, CSS).
+- 🌱 I’m currently learning Node.js for Backend web Development.
+- 💞️ I’m looking to collaborate on any projects to improve my knowledge and skills as a developer.
 - 📫 How to reach me  kunlefashmayop@gmail.com
 
 <!---
