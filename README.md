@@ -2,6 +2,7 @@
 - 👀 I’m a frontend software developer with React.js(HTML, CSS).
 - 🌱 I’m currently learning Node.js for Backend web Development.
 - 💞️ I’m looking to collaborate on any projects to improve my knowledge and skills as a developer.
+- 💞️ Feel free to go through my repo 
 - 📫 How to reach me  kunlefashmayop@gmail.com
 
 <!---
