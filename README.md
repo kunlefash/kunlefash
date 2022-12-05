@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunlefash" alt="kunlefash" /></a> </p>
 
-- 🔭 I’m currently working on **improving my skills as a backend developer**
-
 - 🌱 I’m currently learning **backend web development(Go).**
 
 - 👯 I’m looking to collaborate on **innovative and interesting projects.**
