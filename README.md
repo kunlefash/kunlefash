@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Fasakin Adekunle</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Adekunle Fasakin</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunlefash" alt="kunlefash" /></a> </p>
 
-- 🌱 I’m currently learning **backend web development(Go).**
 
 - 👯 I’m looking to collaborate on **innovative and interesting projects.**
 
 - 📫 How to reach me **kunlefashmayop@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRmcUO-WFrMn4yPKVZARd9OXBtmUhGH0XM2V36SyHsyxJRH-Xmr_uXqD-RnZM7WlZeUsva2L2SxSm8Y/pub](https://docs.google.com/document/d/e/2PACX-1vRmcUO-WFrMn4yPKVZARd9OXBtmUhGH0XM2V36SyHsyxJRH-Xmr_uXqD-RnZM7WlZeUsva2L2SxSm8Y/pub)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFlyAIzhBg/ZVuxY1sZAw6bx66VB7RBZg/edit?utm_content=DAFlyAIzhBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFlyAIzhBg/ZVuxY1sZAw6bx66VB7RBZg/edit?utm_content=DAFlyAIzhBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
